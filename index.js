@@ -5,3 +5,4 @@ const y = 6;
 const z = 7;
 
 const a = 8;
+const b = 9;
