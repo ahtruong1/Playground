@@ -1,4 +1,5 @@
 console.log('Happy developing ✨')
+const e = 12;
 const c = 10;
 const x = 5;
 const y = 6;
