@@ -1,4 +1,5 @@
 console.log('Happy developing ✨')
+const g = 1231231;
 // sdfas
 const e = 12;
 const c = 10;
