@@ -7,3 +7,7 @@ function meow() {
 function greet() {
     console.log("Hello, world");
 }
+
+function woof() {
+    console.log("woof");
+}
