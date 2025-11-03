@@ -17,3 +17,4 @@ function quack() {
 }
 
 const final = 5;
+const final2 = 6;
