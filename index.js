@@ -11,3 +11,7 @@ const a = 8;
 const b = 9;
 const d = 11;
 const f = 1231231;
+
+function greet() {
+    console.log("Hello, world");
+}
