@@ -11,3 +11,7 @@ function greet() {
 function woof() {
     console.log("woof");
 }
+
+function quack() {
+    console.log("quack");
+}
