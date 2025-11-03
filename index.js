@@ -15,3 +15,5 @@ function woof() {
 function quack() {
     console.log("quack");
 }
+
+const final = 5;
